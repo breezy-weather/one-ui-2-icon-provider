@@ -14,5 +14,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "BreezyWeatherPixelIconProvider"
+rootProject.name = "BreezyWeatherOneUI2IconProvider"
 include(":app")
